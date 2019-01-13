@@ -1627,7 +1627,7 @@
 		},
 
 		{
-			"hl": "ARCHIVES",
+			"hl": "TOI ARCHIVES",
 			"tn": "linearslider",
 			"cs": "prime",
 			"type": "archives",
@@ -1658,6 +1658,7 @@
 					"lpt": "1545128464657",
 					"dl": "1542884160000",
 					"hl": "The nowhere people: Pakistani Hindu refugees in Rajasthan",
+					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
 					"imageid": "66808580&pl=2506706",
 					"id": "66750508",
 					"dm": "t",
