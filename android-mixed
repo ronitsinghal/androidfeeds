@@ -27,7 +27,7 @@
 		},
 
 		{
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=android&andver=522&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
 			"secid": "2048925",
 			"brimageid": "66827031",
