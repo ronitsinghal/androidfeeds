@@ -1,16 +1,112 @@
 {
 	"updl": "#$hashkey$#",
-
 	"pg": {
 		"tr": "56",
-		"pp": "10",
-		"tp": "6",
+		"pp": "56",
+		"tp": "1",
 		"cp": "1"
 	},
-
-	"items": [
-
-		{
+	"items": [{
+			"hl": "Headline above the image and no synopsis",
+			"id": "67791426",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67791483"
+		}, {
+			"hl": "Headline below the image and no synopsis",
+			"id": "67791506",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67791483"
+		}, {
+			"hl": "Vertical image with title at bottom centre",
+			"id": "67791614",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67847088"
+		}, {
+			"hl": "White title at bottom centre",
+			"id": "67851572",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67851739"
+		}, {
+			"hl": "Black title at bottom centre",
+			"id": "67851838",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67992014"
+		}, {
+			"hl": "White title at top centre",
+			"id": "67775025",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67775025"
+		}, {
+			"hl": "Black title at left and highlights medium",
+			"id": "67775270",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67775317"
+		}, {
+			"hl": "White title at right",
+			"id": "67775339",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67775349"
+		}, {
+			"hl": "Black title at top and XL highlights",
+			"id": "67775378",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67775410"
+		}, {
+			"hl": "Black title below the image and huge highlights",
+			"id": "67775421",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "67775453"
+		}, {
+			"hl": "Test Poll",
+			"id": "67795360",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "sfview",
+			"dm": "t",
+			"imageid": "67795360",
+			"wu": "https://timesofindia.indiatimes.com/is-the-budget-good-for-you/polls_test/67795360.cms"
+		}, {
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -24,9 +120,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		},
-
-		{
+		}, {
 			"ag": "TOI Tech",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -40,21 +134,16 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/primeshow/65118459.cms"
 		},
-
 		{
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=android&andver=522&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
 			"secid": "2048925",
 			"brimageid": "66827031",
 			"nbrimageid": "66827052",
 			"tn": "primemixedslider",
 			"uid": "news-01",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"ag": "TNN",
-					"cs": "prime",
 					"upd": "1546841940000",
 					"lpt": "1546841969964",
 					"dl": "1546681800000",
@@ -67,7 +156,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/how-society-identifies-hounds-rape-survivors/articleshow/67394523.cms",
 					"kws": "restorative justice,rape survivor,Rape,justice,gang rape"
 				},
-
 				{
 					"type": "featured",
 					"cs": "prime",
@@ -85,10 +173,8 @@
 					"wu": "https://timesofindia.indiatimes.com/india/the-people-behind-the-the-mega-rescue-mission-during-the-kerala-floods/articleshow/67323771.cms",
 					"kws": "National Disaster Response Force,Kerala Floods,Kerala,floods in kerala,Cyclone Ockhi"
 				},
-
 				{
 					"ag": "TNN",
-					"cs": "prime",
 					"upd": "1546841940000",
 					"lpt": "1546841969964",
 					"dl": "1546681800000",
@@ -100,10 +186,8 @@
 					"wu": "https://timesofindia.indiatimes.com/india/how-society-identifies-hounds-rape-survivors/articleshow/67394523.cms",
 					"kws": "restorative justice,rape survivor,Rape,justice,gang rape"
 				},
-
 				{
 					"ag": "TNN",
-					"cs": "prime",
 					"au": "Shimona Kanwar",
 					"upd": "1546322280000",
 					"lpt": "1546322339848",
@@ -116,10 +200,8 @@
 					"wu": "https://timesofindia.indiatimes.com/india/how-tb-patients-left-to-die-by-kin-100-yrs-ago-set-up-himachal-town/articleshow/67307532.cms",
 					"kws": "Tuberculosis,Sanatorium,partition,Himachal,Dharampur"
 				},
-
 				{
 					"ag": "TNN",
-					"cs": "prime",
 					"au": "Naresh Mitra",
 					"upd": "1545991560000",
 					"lpt": "1545991590030",
@@ -134,7 +216,6 @@
 				}
 			]
 		},
-
 		{
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
@@ -151,22 +232,6 @@
 			"nbrimageid": "66950473",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
 		},
-
-		{
-			"au": "Anuj Ahuja",
-			"ag": "TNN",
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "Test Article with Video Embeds",
-			"imageid": "67191211",
-			"id": "67191670",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://m.timesofindia.com/articleshow/67191670.cms"
-		},
-
 		{
 			"au": "AVIJIT Ghosh",
 			"ag": "TNN",
@@ -181,7 +246,6 @@
 			"cs": "prime",
 			"wu": "https://m.timesofindia.com/city/meerut/articleshow/65303644.cms"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Naresh Mitra",
@@ -197,7 +261,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-meghalaya-deadly-rat-hole-mines-take-lives-ruin-environment/articleshow/67284428.cms",
 			"kws": "rat hole mining,meghalaya,Jaintia Hills,illegal mining"
 		},
-
 		{
 			"au": "Yudhajit Shankar Das",
 			"upd": "1545983820000",
@@ -213,7 +276,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/nagas-race-against-time-to-record-their-fast-vanishing-folklore/articleshow/67269421.cms",
 			"kws": "Nagas,Naga tribes,naga folklore,Folklore,Folk songs"
 		},
-
 		{
 			"au": "Naresh Mitra",
 			"upd": "1545986400000",
@@ -228,7 +290,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/how-mega-dam-in-arunachal-is-threatening-a-dalai-lama/articleshow/67158514.cms",
 			"kws": "zemithang,Tawang,Dalai Lama,Black-necked crane,arunachal"
 		},
-
 		{
 			"ag": "TNN",
 			"upd": "1545402420000",
@@ -243,7 +304,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/dark-ages-nightmare-over-but-uninterrupted-power-still-a-dream/articleshow/67159459.cms",
 			"kws": "Rural Electrification,power corporation,Narendra Modi,Government,electrification"
 		},
-
 		{
 			"ag": "TNN",
 			"upd": "1545982560000",
@@ -260,7 +320,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/when-loan-waiver-hype-meets-the-farm-reality/articleshow/67144206.cms",
 			"kws": "partial loan waiver,loan waivers,farmer crisis,farm loans,farm distress"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Naresh Mitra",
@@ -276,7 +335,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-1997-this-indian-doctor-tried-pig-heart-transplant-was-jailed/articleshow/67113032.cms",
 			"kws": "pig,organ transplant,indian medical association,heart transplant,dhani ram baruah"
 		},
-
 		{
 			"ag": "TNN",
 			"upd": "1545049320000",
@@ -292,7 +350,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/from-high-debt-to-low-mandi-prices-farms-in-crisis-across-country/articleshow/67088460.cms",
 			"kws": "wholesale prices,Onion prices,farmers debt,farm crisis,famers"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Shradha Chettri and Mohammad Ibrar",
@@ -309,7 +366,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/class-act-poor-children-show-they-can/articleshow/67058297.cms",
 			"kws": "Right to Education,education,economically weak,children"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Arvind Chauhan and Piyush Rai",
@@ -325,7 +381,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/for-hard-jobs-slain-up-cop-always-first-choice-of-seniors/articleshow/67020622.cms",
 			"kws": "UP police,UP govt,Subodh Singh,Law and order,bulandshahr"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ishita Mishra",
@@ -342,7 +397,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/for-the-first-time-in-100-years-of-its-existence-amu-girls-ready-to-play-hockey/articleshow/66967115.cms",
 			"kws": "Olympics Hockey,hockey,amu amu hockey,amu,Aligarh Muslim University"
 		},
-
 		{
 			"ag": "TIMESOFINDIA.COM",
 			"upd": "1544096340000",
@@ -358,7 +412,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-2017-india-second-worst-in-extreme-weather-deaths/articleshow/66952397.cms",
 			"kws": "Puerto Rico,global rankings,extreme weather,climate change"
 		},
-
 		{
 			"upd": "1545127980000",
 			"lpt": "1545127998955",
@@ -372,7 +425,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/when-the-sentinelese-shun-bows-and-arrows-to-welcome-outsiders/articleshow/66918580.cms",
 			"kws": "Tribals,Sentinelese,Madhumala,john allen chau,Andamanese people"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Shivani Azad",
@@ -389,7 +441,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/char-dham-yatra-indias-deadliest-pilgrimage/articleshow/66841149.cms",
 			"kws": "safety,faith,Deaths,Chardham,Amarnath"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Sandeep Rai",
@@ -406,7 +457,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/couples-library-start-up-gives-free-books-to-kids-in-4-states/articleshow/66823613.cms",
 			"kws": "Villages,Uttar Pradesh,schools,library,books"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Shenoy Karun",
@@ -423,7 +473,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/when-the-british-toyed-with-idea-of-unleashing-gurkha-soldiers-on-sentinelese/articleshow/66822850.cms",
 			"kws": "Sentinelese language,north sentinel island,National Geographic Society,Marco Polo,Gurkha,Andamanese people"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Vimal Bhatia and Shoeb Khan",
@@ -439,7 +488,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/no-sign-of-impending-polls-in-rajasthans-last-village/articleshow/66804999.cms",
 			"kws": "TANOT,rajasthan,Jaisalmer,India Pakistan border,elections"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Dipawali Mitra",
@@ -455,7 +503,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/chronicler-of-calcutta-bids-adieu-to-city-of-joy-after-63-yrs/articleshow/66752205.cms",
 			"kws": "parameswaran thankappan nair,P T Nair,Kolkata's history,chronicler of calcutta"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Arvind Chauhan",
@@ -471,7 +518,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-remote-native-village-gurgaon-serial-killer-rapist-was-quiet-good-boy/articleshow/66750292.cms",
 			"kws": "paedophile killer,gurugram rapist murderer,gurgaon serial killer,gurgaon rapist murderer,ganj village"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ashish Mehta",
@@ -488,7 +534,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/the-no-where-people-pakistani-hindu-refugees-in-rajasthan/articleshow/66750508.cms",
 			"kws": "rajasthan,Pakistani refugees,Pak refugees,Khajuwala,Hindu refugees,Barmer district"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Akashdeep Ashok",
@@ -504,7 +549,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/mosque-at-taj-prayer-petition-prevention/articleshow/66710868.cms",
 			"kws": "taj mosque,taj mahal,sc on taj,namaz at taj,ASI"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ajay Sura",
@@ -520,7 +564,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/how-the-chautalas-went-their-own-way/articleshow/66705246.cms",
 			"kws": "Om Prakash Chautala,Om Prakash,Haryana,Dushyant Chautala,digvijay chautala,Devi Lal (politician),Bhupinder Singh Hooda,Ajay Chautala,Abhay Chautala"
 		},
-
 		{
 			"au": "Rajeev Dikshit",
 			"upd": "1543406580000",
@@ -537,7 +580,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/demolitions-in-varanasi-reveal-ancient-temples/articleshow/66710029.cms",
 			"kws": "Yogi Adityanath,temples ion homes,shops,Manikarnika Ghat,kashi vishwanath temple,demolitions in varanasi"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ishita Mishra",
@@ -553,7 +595,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/how-mahila-thanas-are-inspiring-more-women-to-report-crime/articleshow/66705084.cms",
 			"kws": "Women police,Women Cops,woman police stations,Saharanpur,Mahila Thanas"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Yeshika Budhwar",
@@ -570,7 +611,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/big-fat-indian-wedding-lures-foreign-tourists/articleshow/66691482.cms",
 			"kws": "wedding tourists,wedding tourism,Indian Wedding,india weddings,Desi weddings"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Arvind Chauhan",
@@ -587,7 +627,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/eligible-for-seat-in-house-of-lords-anglo-indian-family-now-farms-in-kasganj/articleshow/66650700.cms",
 			"kws": "william gardner,William Dalrymple (historian),Mughal empire,Kasganj,julian james gardner"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Aarti Tikoo Singh",
@@ -603,7 +642,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/social-media-star-jks-controversial-traffic-chief-shunted-out-after-spat-with-mayor/articleshow/66630994.cms",
 			"kws": "traffic kashmir,Junaid Mattoo,j&k mayor,ig traffic j&k,Basant Rath"
 		},
-
 		{
 			"ag": "TNN",
 			"upd": "1542373620000",
@@ -618,7 +656,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/green-energy-growth-is-fast-outpacing-that-of-thermal/articleshow/66632335.cms",
 			"kws": "thermal energy,renewable energy,Green energy,fossil fuel"
 		},
-
 		{
 			"au": "Anuja Jaiswal",
 			"upd": "1542365760000",
@@ -633,7 +670,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/the-men-were-shot-in-an-encounter-their-families-are-now-huddled-in-tents/articleshow/66603839.cms",
 			"kws": "up police encounter,police encounter aligarh,encounters up,Encounter,aligarh encounter"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Sajimon P S",
@@ -649,7 +685,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/meet-the-states-96-year-old-topper-amma/articleshow/66585569.cms",
 			"kws": "literacy india,Kerala literacy,Karthiyayani Amma,India education,education kerala"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Sagar Choukse and Rajesh Jauhri",
@@ -665,7 +700,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-poll-bound-mp-hingot-warriors-say-no-explosives-no-vote/articleshow/66565786.cms",
 			"kws": "mahdya pradesh polls,Madhya Pradesh,Hingots,hingot yuddh,hingot war,Diwali"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Anuja Jaiswal",
@@ -681,7 +715,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/the-elephant-you-ride-may-be-blind-lame/articleshow/66553385.cms",
 			"kws": "Wildlife Protection Act,elephants in captivity,elephant torture,Cruelty to Animals,animal welfare board"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "U Sudhakar Reddy",
@@ -697,7 +730,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/our-job-is-like-that-of-a-hangman-you-cant-call-him-nasty/articleshow/66523488.cms",
 			"kws": "tigress,T1,shafath ali khan,Avni,asghar ali khan"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Sudha Nambudiri",
@@ -713,7 +745,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/theres-more-to-lord-ayyappa-than-most-hindus-know/articleshow/66509905.cms",
 			"kws": "sabarimala,Lord Ayyappa,dharma sastha,Ayyappa,achankovil temple,Achankovil"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Yeshika Budhwar",
@@ -729,7 +760,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/football-ensures-these-child-brides-cant-be-kicked-around/articleshow/66521430.cms",
 			"kws": "rajasthan,hasiyawas,child marriage rajasthan,child brides,chachiyawas,ajmer"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Pankaj Shah and Arshad Afzaal Khan",
@@ -745,7 +775,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-ayodhya-hope-and-fear-as-temple-talk-gets-louder/articleshow/66508079.cms",
 			"kws": "Yogi Adityanath,Ram Mandir,Babri Masjid,Ayodhya verdict,Ayodhya"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "NAOMI CANTON",
@@ -761,7 +790,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/much-has-changed-in-pushkar-barring-endless-wooing-of-female-foreigners/articleshow/66461043.cms",
 			"kws": "Pushkar town,Pushkar Mela,pushkar diaries,pushkar came fair,PUSHKAR"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ishita Mishra",
@@ -777,7 +805,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/parents-murdered-3-boys-desperate-wait-for-adulthood-to-claim-compensation/articleshow/66457475.cms",
 			"kws": "Mainpuri,lakhnipur,dalit couple murdered,dalit couple hacked,dalit boys"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Sandeep Rai",
@@ -793,7 +820,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/hashmimpura-massacre-shot-twice-and-left-for-dead-man-survived-to-recount-horror/articleshow/66456887.cms",
 			"kws": "pac,Hashimpura massacre,Hashimpura,custodial deaths,Babudin Ansari"
 		},
-
 		{
 			"ag": "TNN",
 			"au": "Ch Sushil Rao and Bhanu Pratap Singh",
@@ -809,7 +835,6 @@
 			"wu": "https://timesofindia.indiatimes.com/india/in-poll-bound-states-this-is-how-far-netas-are-going-for-votes-/articleshow/66442348.cms",
 			"kws": "TELANGANA ELECTIONS,Telangana,Sanganer,Rajasthan elections,Election Commission of India"
 		},
-
 		{
 			"upd": "1511681700000",
 			"lpt": "1511681700000",
@@ -822,24 +847,18 @@
 			"id": "66118582",
 			"brimageid": "66950473",
 			"cnt": "7",
-
-			"image": [
-
-				{
+			"image": [{
 					"id": "66119053"
 				},
-
 				{
 					"id": "66119073"
 				},
-
 				{
 					"id": "66119045"
 				}
 			],
 			"wu": "https://timesofindia.indiatimes.com/rahul-gandhi-raises-poll-pitch-in-gujarat/Rahul-Gandhi/photostory/66118582.cms"
 		},
-
 		{
 			"upd": "1540812600000",
 			"lpt": "1540812652965",
@@ -852,20 +871,6 @@
 			"tn": "photostory",
 			"wu": "https://timesofindia.indiatimes.com/slidesowdev/these-girls-are-beding-it-like-beckham/primephotostory/66635035.cms"
 		},
-
-		{
-			"upd": "1540812600000",
-			"lpt": "1540812652965",
-			"dl": "1540809000000",
-			"hl": "Hingot Yuddh: Tradition trumps over safety (Test)",
-			"imageid": "66634985",
-			"id": "66634947",
-			"dm": "t",
-			"cs": "prime",
-			"tn": "photostory",
-			"wu": "https://timesofindia.indiatimes.com/Hingot-Yuddh-Tradition-trumps-over-safety-Test/photostory/66634947.cms"
-		},
-
 		{
 			"ag": "TNN",
 			"au": "SANDEEP RAI",
@@ -880,7 +885,6 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms"
 		},
-
 		{
 			"au": "ISHITA MISHRA",
 			"ag": "TNN",
@@ -896,7 +900,6 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/eight-years-on-nit-uttarakhand-on-borrowed-land-awaits-its-own-campus/articleshow/66159150.cms"
 		},
-
 		{
 			"au": "Rohit Arora",
 			"upd": "1529482140000",
@@ -912,7 +915,6 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime-sunny/articleshow/64648795.cms"
 		},
-
 		{
 			"au": "ROHITH B R AND VIJAY PINJARKAR",
 			"upd": "1529482140000",
@@ -927,7 +929,6 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/66152496.cms"
 		},
-
 		{
 			"au": "KALPESH DAMOR, NIYATI PARIKH AND KAPIL DAVE",
 			"upd": "1534150560000",
@@ -955,7 +956,6 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms"
 		},
-
 		{
 			"au": "MANISH SIRHINDI",
 			"upd": "1536040800000",
@@ -969,7 +969,6 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms"
 		},
-
 		{
 			"au": "Adi B Godrej",
 			"kws": "prime5,prime4prime4,prime3prime3,prime2prime2,prime1prime1",
@@ -981,19 +980,14 @@
 			"id": "64648987",
 			"tn": "video",
 			"cs": "prime",
-			"du": "1:21",
 			"dm": "t",
 			"wu": "https://timesofindia.indiatimes.com/prime-video-very-fortunate-to-be-a-part-of-gold-amit-sadh/videoshow/64648987.cms"
 		},
-
 		{
 			"hl": "VIDEOS",
 			"tn": "rotaryslider",
 			"cs": "prime",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"id": "59200443",
 					"hl": "Champions Trophy: On Father's Day, mother of all finals",
 					"du": "01:22",
@@ -1002,7 +996,6 @@
 					"tn": "video",
 					"upd": "1497758880000"
 				},
-
 				{
 					"id": "59197595",
 					"hl": "Virat Kohli, Sarfraz Ahmed pose with ICC Champions Trophy a day before final",
@@ -1013,7 +1006,6 @@
 					"upd": "1497772320000",
 					"lpt": "1532434047691"
 				},
-
 				{
 					"id": "59158488",
 					"hl": "Champions Trophy semi-final: Confident India face tricky Bangladesh test",
@@ -1024,7 +1016,6 @@
 					"upd": "1497514380000",
 					"lpt": "1532434047691"
 				},
-
 				{
 					"id": "59149679",
 					"hl": "This video of Yuvraj, Kohli and Shikhar on practice ground will surely amuse you!",
@@ -1035,7 +1026,6 @@
 					"upd": "1497462300000",
 					"lpt": "1532434047691"
 				},
-
 				{
 					"id": "59143611",
 					"hl": "Top of the pops: Yuvraj Singh's journey to 300 ODIs",
@@ -1048,7 +1038,6 @@
 				}
 			]
 		},
-
 		{
 			"au": "Sumedha Bharpilania",
 			"kws": "prime5,prime4prime4,prime3prime3,prime2prime2,primeprime",
@@ -1064,7 +1053,6 @@
 			"su": "http://toi.in/4Z2YFa26/",
 			"wu": "https://timesofindia.indiatimes.com/test-video-for-prime/videoshow/64648950.cms"
 		},
-
 		{
 			"au": "Rohit Arora",
 			"upd": "1529482140000",
@@ -1080,7 +1068,6 @@
 			"su": "http://toi.in/ojtPta28/",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime-sunny/articleshow/64648795.cms"
 		},
-
 		{
 			"au": "Rohit Arora",
 			"upd": "1529406000000",
@@ -1096,17 +1083,13 @@
 			"su": "http://toi.in/n3jGfZ/",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime/articleshow/64648587.cms"
 		},
-
 		{
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,feedtype-sjson,msid-58606824.cms?platform=iphone&ipver=495",
-			"hl": "MOST COMMENTED",
+			"hl": "Most Commented",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-commented",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"ag": "TIMESOFINDIA.COM",
 					"upd": "1540210680000",
 					"lpt": "1540210741923",
@@ -1119,7 +1102,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/prithvi-shaw-the-next-sachin/articleshow/66211876.cms",
 					"kws": "sachin tendulkar,Ranji trophy,Prithvi Shaw,Mumbai Cricket team,Delhi Daredevils"
 				},
-
 				{
 					"upd": "1539410280000",
 					"lpt": "1539410326857",
@@ -1132,7 +1114,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/india-cant-simply-abandon-russia-to-align-with-what-america-perceives-as-its-national-interest-today/articleshow/66191558.cms",
 					"cnt": "12210"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Ashutosh Shukla",
@@ -1147,7 +1128,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-sc-seats-general-obc-voters-hold-the-key-as-caste-lines-deepen/articleshow/66173404.cms",
 					"cnt": "1220"
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TNN",
@@ -1163,7 +1143,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/he-sacrificed-his-life-to-save-river-ganga/articleshow/66173051.cms",
 					"cnt": "10"
 				},
-
 				{
 					"au": "Ramesh Thakur",
 					"upd": "1539253920000",
@@ -1177,7 +1156,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/how-a-religious-tourism-led-development-strategy-can-trigger-a-bihari-renaissance/articleshow/66163688.cms",
 					"cnt": "1"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Amit Bhattacharya",
@@ -1192,7 +1170,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/stubble-burning-begins-in-punjab-and-haryana-but-theres-no-need-to-press-the-panic-button-yet/articleshow/66163139.cms",
 					"cnt": ""
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TNN",
@@ -1208,7 +1185,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/eight-years-on-nit-uttarakhand-on-borrowed-land-awaits-its-own-campus/articleshow/66159150.cms",
 					"cnt": "1220"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Rohith B R and Vijay Pinjarkar",
@@ -1225,16 +1201,12 @@
 				}
 			]
 		},
-
 		{
 			"hl": "MOST READ",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-read",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"cs": "prime",
 					"ag": "TNN",
 					"au": "Vineet Upadhyay",
@@ -1249,7 +1221,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/crowdfunded-initiative-feeds-1k-daily-in-uttarakhands-haldwani/articleshow/66333662.cms",
 					"cnt": "12120"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Manish Sirhindi",
@@ -1264,7 +1235,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/eco-friendly-farmers-in-model-punjab-village-dont-burn-crop-stubble-plough-it-back-to-soil/articleshow/66290824.cms",
 					"cnt": "1"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Prashant Rupera",
@@ -1279,7 +1249,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/marilyn-monroes-best-friend-the-moon-of-baroda-to-go-under-the-hammer/articleshow/66273411.cms",
 					"cnt": "10"
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TIMESOFINDIA.COM",
@@ -1294,7 +1263,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/four-of-every-five-cars-will-be-electric-by-2050/articleshow/66272953.cms",
 					"cnt": "12120"
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TIMESOFINDIA.COM",
@@ -1311,7 +1279,6 @@
 				}
 			]
 		},
-
 		{
 			"au": "Adi B Godrej",
 			"upd": "1535968020000",
@@ -1325,7 +1292,6 @@
 			"dm": "t",
 			"wu": "https://timesofindia.indiatimes.com/video/delhi-s-iconic-monuments/videoshow/65635692.cms"
 		},
-
 		{
 			"upd": "1535111940000",
 			"lpt": "1535112005040",
@@ -1338,16 +1304,12 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/65437579.cms"
 		},
-
 		{
 			"hl": "MOST SHARED",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-shared",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"ag": "TNN",
 					"au": "Sandeep Rai",
 					"upd": "1541061480000",
@@ -1361,7 +1323,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/hashmimpura-massacre-shot-twice-and-left-for-dead-man-survived-to-recount-horror/articleshow/66456887.cms",
 					"cnt": "323"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Ch Sushil Rao and Bhanu Pratap Singh",
@@ -1376,7 +1337,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-poll-bound-states-this-is-how-far-netas-are-going-for-votes-/articleshow/66442348.cms",
 					"cnt": "10"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Avijit Chatterjee",
@@ -1391,7 +1351,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/cars-of-the-stars/articleshow/66427673.cms",
 					"cnt": "2120"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "M Saleem Pandit",
@@ -1406,7 +1365,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/sitting-ducks-stalked-by-terror-many-kashmir-cops-have-stopped-going-home/articleshow/66426775.cms",
 					"cnt": "12032"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Priyangi Agarwal",
@@ -1421,7 +1379,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/cured-of-mental-illness-in-2008-man-still-in-hospital-after-kin-shut-door-on-face/articleshow/66414970.cms",
 					"cnt": "20"
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TNN",
@@ -1437,7 +1394,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-red-list-of-threatened-species-owls-massacred-on-diwali-for-luck/articleshow/66411629.cms",
 					"cnt": "1"
 				},
-
 				{
 					"cs": "prime",
 					"upd": "1542190860000",
@@ -1451,7 +1407,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/the-movement-for-gender-equity-in-workplaces-owes-a-big-debt-to-a-poor-rural-woman/articleshow/66360238.cms",
 					"cnt": ""
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TNN",
@@ -1467,7 +1422,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-a-village-on-gangas-banks-saving-turtles-is-an-act-of-faith/articleshow/66359730.cms",
 					"cnt": "10"
 				},
-
 				{
 					"cs": "prime",
 					"au": "Sudha Nambudiri",
@@ -1484,10 +1438,8 @@
 				}
 			]
 		},
-
 		{
 			"au": "Chethan Kumar",
-			"cs": "prime",
 			"upd": "1535104020000",
 			"lpt": "1535974722376",
 			"dl": "1534935900000",
@@ -1499,16 +1451,12 @@
 			"hasvideo": "yes",
 			"wu": "https://timesofindia.indiatimes.com/india/space-dreams-of-india-china-gain-gravity/articleshow/65501130.cms"
 		},
-
 		{
 			"hl": "EDITOR's PICK",
 			"tn": "linearslider",
 			"cs": "prime",
 			"type": "editor-pick",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"au": "Anuja Jaiswal",
 					"upd": "1542365760000",
 					"lpt": "1542365790953",
@@ -1521,7 +1469,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/the-men-were-shot-in-an-encounter-their-families-are-now-huddled-in-tents/articleshow/66603839.cms",
 					"kws": "up police encounter,police encounter aligarh,encounters up,Encounter,aligarh encounter"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Sajimon P S",
@@ -1536,7 +1483,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/meet-the-states-96-year-old-topper-amma/articleshow/66585569.cms",
 					"kws": "literacy india,Kerala literacy,Karthiyayani Amma,India education,education kerala"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Sagar Choukse and Rajesh Jauhri",
@@ -1551,7 +1497,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-poll-bound-mp-hingot-warriors-say-no-explosives-no-vote/articleshow/66565786.cms",
 					"kws": "mahdya pradesh polls,Madhya Pradesh,Hingots,hingot yuddh,hingot war,Diwali"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Anuja Jaiswal",
@@ -1566,7 +1511,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/the-elephant-you-ride-may-be-blind-lame/articleshow/66553385.cms",
 					"kws": "Wildlife Protection Act,elephants in captivity,elephant torture,Cruelty to Animals,animal welfare board"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "U Sudhakar Reddy",
@@ -1581,7 +1525,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/our-job-is-like-that-of-a-hangman-you-cant-call-him-nasty/articleshow/66523488.cms",
 					"kws": "tigress,T1,shafath ali khan,Avni,asghar ali khan"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Sudha Nambudiri",
@@ -1596,7 +1539,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/theres-more-to-lord-ayyappa-than-most-hindus-know/articleshow/66509905.cms",
 					"kws": "sabarimala,Lord Ayyappa,dharma sastha,Ayyappa,achankovil temple,Achankovil"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Yeshika Budhwar",
@@ -1611,7 +1553,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/football-ensures-these-child-brides-cant-be-kicked-around/articleshow/66521430.cms",
 					"kws": "rajasthan,hasiyawas,child marriage rajasthan,child brides,chachiyawas,ajmer"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Pankaj Shah and Arshad Afzaal Khan",
@@ -1626,7 +1567,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-ayodhya-hope-and-fear-as-temple-talk-gets-louder/articleshow/66508079.cms",
 					"kws": "Yogi Adityanath,Ram Mandir,Babri Masjid,Ayodhya verdict,Ayodhya"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "NAOMI CANTON",
@@ -1643,7 +1583,6 @@
 				}
 			]
 		},
-
 		{
 			"au": "Himanshi Dhawan",
 			"upd": "1535105040000",
@@ -1659,16 +1598,12 @@
 			"hasvideo": "yes",
 			"wu": "https://timesofindia.indiatimes.com/india/for-years-banswaras-women-have-been-eating-leftovers-but-this-old-tradition-is-changing-as-they-join-the-menfolk-for-meals-and-start-a-revolution-with-a-rotla/articleshow/65514331.cms"
 		},
-
 		{
-			"hl": "TOI ARCHIVES",
+			"hl": "ARCHIVES",
 			"tn": "linearslider",
 			"cs": "prime",
 			"type": "archives",
-
-			"pitems": [
-
-				{
+			"pitems": [{
 					"cs": "prime",
 					"ag": "TNN",
 					"au": "Arvind Chauhan",
@@ -1683,7 +1618,6 @@
 					"wu": "https://timesofindia.indiatimes.com/india/in-remote-native-village-gurgaon-serial-killer-rapist-was-quiet-good-boy/articleshow/66750292.cms",
 					"kws": "paedophile killer,gurugram rapist murderer,gurgaon serial killer,gurgaon rapist murderer,ganj village"
 				},
-
 				{
 					"cs": "prime",
 					"ag": "TNN",
@@ -1692,14 +1626,12 @@
 					"lpt": "1545128464657",
 					"dl": "1542884160000",
 					"hl": "The nowhere people: Pakistani Hindu refugees in Rajasthan",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
 					"imageid": "66808580&pl=2506706",
 					"id": "66750508",
 					"dm": "t",
 					"tn": "htmlview",
 					"wu": "https://timesofindia.indiatimes.com/india/the-no-where-people-pakistani-hindu-refugees-in-rajasthan/articleshow/66750508.cms"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Akashdeep Ashok",
@@ -1713,7 +1645,6 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/mosque-at-taj-prayer-petition-prevention/articleshow/66710868.cms"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Ajay Sura",
@@ -1727,7 +1658,6 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/how-the-chautalas-went-their-own-way/articleshow/66705246.cms"
 				},
-
 				{
 					"au": "Rajeev Dikshit",
 					"upd": "1543406580000",
@@ -1741,7 +1671,6 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/demolitions-in-varanasi-reveal-ancient-temples/articleshow/66710029.cms"
 				},
-
 				{
 					"ag": "TNN",
 					"au": "Ishita Mishra",
