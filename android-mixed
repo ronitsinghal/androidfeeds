@@ -47,16 +47,6 @@
 			"dm": "t",
 			"imageid": "67847088"
 		}, {
-			"hl": "White title at bottom centre",
-			"id": "67851572",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"tn": "news",
-			"cs": "prime",
-			"dm": "t",
-			"imageid": "67851739"
-		}, {
 			"hl": "Black title at bottom centre",
 			"id": "67851838",
 			"upd": "1533122062000",
@@ -67,7 +57,7 @@
 			"dm": "t",
 			"imageid": "67992014"
 		}, {
-			"hl": "White title at top centre",
+			"hl": "Default color title at top centre",
 			"id": "67775025",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
@@ -97,7 +87,7 @@
 			"dm": "t",
 			"imageid": "67775349"
 		}, {
-			"hl": "Black title at top and XL highlights",
+			"hl": "Black title at top and Tiny highlights",
 			"id": "67775378",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
@@ -107,7 +97,7 @@
 			"dm": "t",
 			"imageid": "67775410"
 		}, {
-			"hl": "Black title below the image and huge highlights",
+			"hl": "Black title below the image and Huge highlights",
 			"id": "67775421",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
