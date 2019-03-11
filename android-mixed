@@ -13,6 +13,7 @@
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "htmlview",
+			"type":"featured",
 			"imageid": "68353688",
 			"wu": "https://prod.cricplay.com/"
 		}, {
@@ -21,6 +22,7 @@
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
+			"type":"featured",
 			"tn": "htmlview",
 			"imageid": "68353708",
 			"wu": "https://prod.cricplay.com/"
