@@ -15,7 +15,7 @@
 			"tn": "htmlview",
 			"type":"featured",
 			"imageid": "68353688",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		}, {
 			"hl": "Cric Play Android 2",
 			"id": "68353708",
@@ -25,7 +25,7 @@
 			"type":"featured",
 			"tn": "htmlview",
 			"imageid": "68353708",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		},{
 			"hl": "Test article for Caption background",
 			"id": "68151118",
