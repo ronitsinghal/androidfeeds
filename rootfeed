@@ -1,5 +1,5 @@
 {
-"masterFeedURLAndroid": "https://timesofindia.indiatimes.com/feeds/masterfeed.cms?platform=android&andver=518&ts=1545207740000",
+"masterFeedURLAndroid": "https://raw.githubusercontent.com/ronitsinghal/androidfeeds/master/masterfeed",
 "masterFeedUpdateTimeAndroid": "1545207740000",
 "continent": "NON_EU"
 }
