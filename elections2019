@@ -109,7 +109,7 @@
           {
             "id": "BR_1",
             "cc": "#FFFFFF",
-            "filter": "Parties-BJP:Parties-Congress:Region-All",
+            "filter": "10-111:11-112:12-114",
             "wu": "https://timesofindia.indiatimes.com/datashowpage.cms?id=6657798"
           },
           {
