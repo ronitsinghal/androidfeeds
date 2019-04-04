@@ -6,7 +6,33 @@
 		"tp": "1",
 		"cp": "1"
 	},
-	"items": [{
+	"items": [
+		{
+			"hl": "Elections 2019 Schedule - HTML banner", 
+			"imageid": "68378044", 
+			"id": "68378044", 
+			"tn": "html", 
+			"wu": "http://m.timesofindia.com/elections/lok-sabha-election-schedule", 
+			"type": "banner"
+		},
+		{
+			"hl": "Elections 2019 Schedule - HTML banner", 
+			"imageid": "68378044", 
+			"id": "68378044", 
+			"tn": "htmlview", 
+			"wu": "http://m.timesofindia.com/elections/lok-sabha-election-schedule", 
+			"type": "banner"
+		},
+		{
+			"hl": "Elections 2019 Schedule - Live TV", 
+			"imageid": "68378044", 
+			"id": "68378044",
+			"channel_id": "times-now",
+			"tn": "livetvtimesnow",
+			"wu": "http://m.timesofindia.com/elections/lok-sabha-election-schedule", 
+			"type": "banner"
+		},
+		{
 			"hl": "Cric Play Android 1",
 			"id": "68353688",
 			"upd": "1533122062000",
