@@ -158,6 +158,7 @@
 		"ros_img": "64156469"
 	},
 	"urls": {
+		"API_DFP_ADS": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/dfpadsfeed",
 		"cubeurl": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_test_aos_app_cube_widget.htm",
 		"dataHubUrl": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=<year>",
 		"API_TOP_COMMENT": "http://myt.indiatimes.com/mytimes/mobile/topcomment/feed?msid=<msid>&appkey=<appkey>&sortcriteria=discussed",
