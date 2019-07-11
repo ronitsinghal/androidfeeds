@@ -120,7 +120,36 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/at-kumbh-luxury-tents-lure-the-pious-rich/articleshow/67336204.cms"
-		}, {
+		}, 
+		{
+			"ag": "TNN",
+			"upd": "1539240765000",
+			"lpt": "1539240765000",
+			"dl": "1539240765000",
+			"hl": "Test article with multi author and box content",
+			"imageid": "69939151",
+			"id": "69938891",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"type": "featured",
+			"wu": "https://timesofindia.indiatimes.com/prime-story-with-box-content-use-cases/articleshow/69938891.cms"
+		},
+		{
+			"ag": "TNN",
+			"upd": "1539240765000",
+			"lpt": "1539240765000",
+			"dl": "1539240765000",
+			"hl": "Test article 2 with multi author and box content",
+			"imageid": "69939485",
+			"id": "69939485",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"type": "featured",
+			"wu": "https://timesofindia.indiatimes.com/prime-story-with-box-content-use-cases/articleshow/69939485.cms"
+		},
+		{
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
