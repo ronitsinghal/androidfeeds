@@ -6,7 +6,15 @@
 		"tp": "1",
 		"cp": "1"
 	},
-	"items": [{
+	"items": [
+	{
+	"name": "Anuj",
+	"imageid": "71325288",
+"id": "55110862",
+"tn": "mixedlist",
+"type": "bigBanner",
+"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"}	
+	{
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
