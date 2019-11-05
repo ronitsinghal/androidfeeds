@@ -7,6 +7,13 @@
 		"cp": "1"
 	},
 	"items": [{
+			"imageid": "71914921",
+			"id": "71914921",
+			"tn": "html",
+			"type": "smallbanner",
+			"wu": "https://timesofindia.indiatimes.com/india/pollution-news"
+		},
+		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -14,8 +21,8 @@
 			"id": "71914921",
 			"tn": "html",
 			"type": "bigBanner",
-			"defaulturl": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		},{
+			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
+		}, {
 			"hl": "Anuj",
 			"imageid": "71325288",
 			"id": "55110862",
