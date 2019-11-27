@@ -7,6 +7,13 @@
 		"cp": "1"
 	},
 	"items": [{
+			"id": "55555555",
+			"tn": "onestatepie",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
+			"key": "ka"
+		},
+
+		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -17,7 +24,8 @@
 			"tn": "html",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
-		},{
+		},
+		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -26,7 +34,8 @@
 			"tn": "html",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		}, {
+		},
+		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -129,7 +138,8 @@
 			"tn": "html",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		}, {
+		},
+		{
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
@@ -140,37 +150,44 @@
 			"imageid": "67586593",
 			"id": "67586593",
 			"dm": "t"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_M",
 			"ctnbackfill": "324644"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "297494"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "327684"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "129086"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "331328"
-		}, {
+		},
+		{
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "327433"
-		}, {
+		},
+		{
 			"hl": "Test article for Caption background",
 			"id": "68151118",
 			"upd": "1533122062000",
@@ -180,7 +197,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "68151206"
-		}, {
+		},
+		{
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
@@ -190,7 +208,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67791483"
-		}, {
+		},
+		{
 			"hl": "Headline below the image and no synopsis",
 			"id": "67791506",
 			"upd": "1533122062000",
@@ -200,7 +219,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67791483"
-		}, {
+		},
+		{
 			"hl": "Vertical image with title at bottom centre",
 			"id": "67791614",
 			"upd": "1533122062000",
@@ -210,7 +230,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67847088"
-		}, {
+		},
+		{
 			"hl": "Black title at bottom centre",
 			"id": "67851838",
 			"upd": "1533122062000",
@@ -220,7 +241,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67992014"
-		}, {
+		},
+		{
 			"hl": "Default color title at top centre",
 			"id": "67775025",
 			"upd": "1533122062000",
@@ -230,7 +252,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775025"
-		}, {
+		},
+		{
 			"hl": "Black title at left and highlights medium",
 			"id": "67775270",
 			"upd": "1533122062000",
@@ -240,7 +263,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775317"
-		}, {
+		},
+		{
 			"hl": "White title at right",
 			"id": "67775339",
 			"upd": "1533122062000",
@@ -250,7 +274,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775349"
-		}, {
+		},
+		{
 			"hl": "Black title at top and Tiny highlights",
 			"id": "67775378",
 			"upd": "1533122062000",
@@ -260,7 +285,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775410"
-		}, {
+		},
+		{
 			"hl": "Black title below the image and Huge highlights",
 			"id": "67775421",
 			"upd": "1533122062000",
@@ -270,7 +296,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775453"
-		}, {
+		},
+		{
 			"au": "Avijit Ghosh and Anindya Chattopadhyay",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -326,7 +353,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/in-eastern-up-priyanka-sparks-talk-of-hope-if-not-miracle-for-cong/articleshow/67830740.cms"
-		}, {
+		},
+		{
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -339,7 +367,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/in-eastern-up-priyanka-sparks-talk-of-hope-if-not-miracle-for-cong/articleshow/67830740.cms"
-		}, {
+		},
+		{
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -352,7 +381,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/indias-long-pending-litigations-hide-personal-tragedies-spanning-decades/articleshow/67585032.cms"
-		}, {
+		},
+		{
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -365,7 +395,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/indias-long-pending-litigations-hide-personal-tragedies-spanning-decades/articleshow/67585032.cms"
-		}, {
+		},
+		{
 			"au": "Chittaranjan Tembhekar, Mateen Hafeez and Mohua Das",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -379,7 +410,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/some-shut-shop-others-became-orchestra-bars/articleshow/67609045.cms"
-		}, {
+		},
+		{
 			"au": "Chittaranjan Tembhekar, Mateen Hafeez and Mohua Das",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -393,7 +425,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/some-shut-shop-others-became-orchestra-bars/articleshow/67609045.cms"
-		}, {
+		},
+		{
 			"au": "Narendra Nathan",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -407,7 +440,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/how-much-you-will-need-for-retirement/articleshow/69514730.cms"
-		}, {
+		},
+		{
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -421,7 +455,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		}, {
+		},
+		{
 			"ag": "TOI Tech",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
