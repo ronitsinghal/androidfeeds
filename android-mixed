@@ -8,8 +8,9 @@
 	},
 	"items": [{
 			"id": "55555555",
-			"tn": "onestatepie",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
+			"tn": "allstatepie",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
+			"key": "ka"
 		},
 
 		{
