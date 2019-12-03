@@ -7,10 +7,11 @@
 		"cp": "1"
 	},
 	"ads": {
-		"header": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_ATF",
+		"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+		"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
 		"ctnheader": "324379",
 		"ctnfooter": "324387",
-		"footer": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_BTF",
+
 		"inlinefullscreen": {
 			"adcode": "333417",
 			"diffpos": "4",
