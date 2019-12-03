@@ -6,12 +6,23 @@
 		"tp": "1",
 		"cp": "1"
 	},
+	"ads": {
+		"header": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_ATF",
+		"ctnheader": "324379",
+		"ctnfooter": "324387",
+		"footer": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_BTF",
+		"inlinefullscreen": {
+			"adcode": "333417",
+			"diffpos": "4",
+			"startpos": "2"
+		},
+		"securl": "http://m.timesofindia.com/"
+	},
 	"items": [{
 			"id": "55555555",
 			"tn": "onestatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
 		},
-
 		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
@@ -48,7 +59,7 @@
 			"kws": "maharashtra polls 2019,Maharashtra elections,maharashtra assembly elections 2019,Maharashtra assembly elections,Maharashtra,Devendra Fadnavis"
 		},
 		{
-			"id": "196579",
+			"id": "333126",
 			"tn": "newslistdAd",
 			"pos": "1-51396865-2"
 		},
@@ -117,6 +128,10 @@
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/india/why-indias-capital-is-a-gas-chamber/articleshow/71918999.cms",
 			"kws": "stubble burning,Smog,sc on pollution,most polluted city,Delhi pollution,Air Pollution"
+		}, {
+			"id": "333126",
+			"tn": "newslistdAd",
+			"pos": "1-51396865-2"
 		},
 		{
 			"upd": "1572946080000",
@@ -149,12 +164,10 @@
 			"imageid": "67586593",
 			"id": "67586593",
 			"dm": "t"
-		},
-		{
-			"id": "123456717",
-			"tn": "dfpmrec",
-			"adcode": "/7176/TOI_App_Test/TOI_App_Test_M",
-			"ctnbackfill": "324644"
+		}, {
+			"id": "333126",
+			"tn": "newslistdAd",
+			"pos": "1-51396865-2"
 		},
 		{
 			"id": "123456717",
