@@ -88,7 +88,7 @@
 				}
 			]
 		},
-				{
+		{
 			"name": "Delhi Elections 2020_2",
 			"tn": "gridWidget-3",
 			"items": [{
@@ -136,10 +136,10 @@
 			]
 		},
 		{
-"id": "123456",
-"tn": "starCnt",
-"url": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_app_star_candidates_list.htm"
-},
+			"id": "123456",
+			"tn": "starCnt",
+			"url": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/Star%20Candidates"
+		},
 		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
