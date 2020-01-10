@@ -20,10 +20,28 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-			"id": "55555555",
+			"id": "111111",
 			"tn": "onestatepie",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
+			"key": "mp"
+		},
+		{
+			"id": "222222",
+			"tn": "allstatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
 		},
+		{
+			"id": "333333",
+			"tn": "onestatepieexitpoll",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_exit_poll",
+			"key": "mp"
+		},
+		{
+			"id": "444444",
+			"tn": "allstatepieexitpoll",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_exit_poll"
+		},
+		
 		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
