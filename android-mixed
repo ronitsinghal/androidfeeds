@@ -136,6 +136,11 @@
 			]
 		},
 		{
+"id": "123456",
+"tn": "starCnt",
+"url": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_app_star_candidates_list.htm"
+},
+		{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
