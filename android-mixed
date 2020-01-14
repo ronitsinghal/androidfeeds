@@ -68,21 +68,21 @@
 				{
 					"name": "Datahub",
 					"id": "44444",
-					"imageId": "73187521",
-					"tn": "mixed listing",
+					"imageid": "73187521",
+					"tn": "mixed",
 					"defaultUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
 					"name": "Fantasy Game",
 					"id": "55555",
-					"imageId": "73187521",
+					"imageid": "73187521",
 					"tn": "videolist",
 					"defaultUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
 					"name": "Election Explainer",
 					"id": "66666",
-					"imageId": "73187521",
+					"imageid": "73187521",
 					"tn": "photolist",
 					"defaultUrl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
 				}
@@ -101,7 +101,7 @@
 				{
 					"name": "Election Results",
 					"id": "222222",
-					"imageId": "73187429",
+					"imageid": "73187429",
 					"tn": "htmlview",
 					"defaulturl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
@@ -115,8 +115,8 @@
 				{
 					"name": "Datahub",
 					"id": "44444",
-					"imageId": "73187429",
-					"tn": "mixed listing",
+					"imageid": "73187429",
+					"tn": "mixed",
 					"defaultUrl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
@@ -129,7 +129,7 @@
 				{
 					"name": "Election Explainer",
 					"id": "66666",
-					"imageId": "73187265",
+					"imageid": "73187265",
 					"tn": "photolist",
 					"defaultUrl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
 				}
