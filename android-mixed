@@ -44,7 +44,7 @@
 		{
 			"name": "Delhi Elections 2020",
 			"bg_cc": "#FAFAFA",
-			"bg_cc_dark": "#FAFAFA",
+			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-2",
 			"items": [{
 					"name": "Star Candidates",
@@ -99,7 +99,7 @@
 		{
 			"name": "Delhi Elections 2020_2",
 			"bg_cc": "#FAFAFA",
-			"bg_cc_dark": "#FAFAFA",
+			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-3",
 			"items": [{
 					"name": "Star Candidates",
