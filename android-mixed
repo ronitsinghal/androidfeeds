@@ -46,7 +46,7 @@
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-3",
-			"items": [{
+			"pitems": [{
 					"name": "Datahub",
 					"id": "11111",
 					"imageid": "73479015",
@@ -118,7 +118,7 @@
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-2",
-			"items": [{
+			"pitems": [{
 					"name": "Star Candidates",
 					"id": "11111",
 					"imageid": "73187493",
