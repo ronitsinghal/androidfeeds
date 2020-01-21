@@ -102,52 +102,52 @@
 			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-3",
 			"items": [{
-					"name": "Star Candidates",
+					"name": "Datahub",
 					"id": "11111",
-					"imageid": "73187265",
-					"imageid_dark": "73187265",
-					"tn": "html",
-					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
+					"imageid": "73479015",
+					"imageid_dark": "73479481",
+					"tn": "htmlview",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/constituency-map"
 				},
 				{
-					"name": "Election Results",
+					"name": "Exitpoll",
 					"id": "222222",
-					"imageid": "73187429",
-					"imageid_dark": "73187429",
+					"imageid": "73479107",
+					"imageid_dark": "73479520",
+					"tn": "html",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/exit-polls"
+				},
+				{
+					"name": "Know your constituency",
+					"id": "33333",
+					"imageid": "73479146",
+					"imageid_dark": "73479722",
+					"tn": "mixedlist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73252049,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
+				},
+				{
+					"name": "News",
+					"id": "44444",
+					"imageid": "73479215",
+					"imageid_dark": "73479772",
+					"tn": "mixedlist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133263,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
+				},
+				{
+					"name": "Results",
+					"id": "55555",
+					"imageid": "73479348",
+					"imageid_dark": "73479811",
 					"tn": "htmlview",
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
 				{
-					"name": "Election News",
-					"id": "33333",
-					"imageid": "73187429",
-					"imageid_dark": "73187429",
-					"tn": "livetv",
-					"channel_id": "times-now"
-				},
-				{
-					"name": "Datahub",
-					"id": "44444",
-					"imageid": "73187429",
-					"imageid_dark": "73187429",
-					"tn": "mixedlist",
-					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
-				},
-				{
-					"name": "Fantasy Game",
-					"id": "55555",
-					"imageid": "73187265",
-					"imageid_dark": "73187265",
-					"tn": "videolist",
-					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=560&adreqfrm=sec"
-				},
-				{
-					"name": "Election Explainer",
+					"name": "Videos",
 					"id": "66666",
-					"imageid": "73187265",
-					"imageid_dark": "73187265",
-					"tn": "photolist",
-					"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
+					"imageid": "73479380",
+					"imageid_dark": "73479848",
+					"tn": "videolist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
 				}
 			]
 		},
