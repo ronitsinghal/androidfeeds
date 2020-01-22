@@ -99,7 +99,8 @@
 		{
 			"id": "123456",
 			"tn": "starCnt",
-			"url": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/Star%20Candidates"
+			"url": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/Star%20Candidates",
+			"dpt": "10"
 		},
 		{
 			"id": "73268155",
