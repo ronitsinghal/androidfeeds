@@ -47,7 +47,7 @@
 			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-3",
 			"pitems": [{
-					"name": "Datahub",
+					"hl": "Datahub",
 					"id": "11111",
 					"imageid": "73479015",
 					"imageid_dark": "73479481",
@@ -55,7 +55,7 @@
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/constituency-map"
 				},
 				{
-					"name": "Exitpoll",
+					"hl": "Exitpoll",
 					"id": "222222",
 					"imageid": "73479107",
 					"imageid_dark": "73479520",
@@ -63,7 +63,7 @@
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/exit-polls"
 				},
 				{
-					"name": "Know your constituency",
+					"hl": "Know your constituency",
 					"id": "33333",
 					"imageid": "73479146",
 					"imageid_dark": "73479722",
@@ -71,7 +71,7 @@
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73252049,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
 				},
 				{
-					"name": "News",
+					"hl": "News",
 					"id": "44444",
 					"imageid": "73479215",
 					"imageid_dark": "73479772",
@@ -79,7 +79,7 @@
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133263,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
 				},
 				{
-					"name": "Results",
+					"hl": "Results",
 					"id": "55555",
 					"imageid": "73479348",
 					"imageid_dark": "73479811",
@@ -87,7 +87,7 @@
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
 				{
-					"name": "Videos",
+					"hl": "Videos",
 					"id": "66666",
 					"imageid": "73479380",
 					"imageid_dark": "73479848",
@@ -120,7 +120,7 @@
 			"bg_cc_dark": "#1a1a1a",
 			"tn": "gridWidget-2",
 			"pitems": [{
-					"name": "Star Candidates",
+					"hl": "Star Candidates",
 					"id": "11111",
 					"imageid": "73187493",
 					"imageid_dark": "73187493",
@@ -128,7 +128,7 @@
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
 				},
 				{
-					"name": "Election Results",
+					"hl": "Election Results",
 					"id": "222222",
 					"imageid": "73187521",
 					"imageid_dark": "73187493",
@@ -136,7 +136,7 @@
 					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
 				{
-					"name": "Election News",
+					"hl": "Election News",
 					"id": "33333",
 					"imageid": "73187493",
 					"imageid_dark": "73187493",
@@ -144,7 +144,7 @@
 					"channel_id": "times-now"
 				},
 				{
-					"name": "Datahub",
+					"hl": "Datahub",
 					"id": "44444",
 					"imageid": "73187521",
 					"imageid_dark": "73187521",
@@ -152,7 +152,7 @@
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
-					"name": "Fantasy Game",
+					"hl": "Fantasy Game",
 					"id": "55555",
 					"imageid": "73187521",
 					"imageid_dark": "73187521",
@@ -160,7 +160,7 @@
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
-					"name": "Election Explainer",
+					"hl": "Election Explainer",
 					"id": "66666",
 					"imageid": "73187521",
 					"imageid_dark": "73187521",
