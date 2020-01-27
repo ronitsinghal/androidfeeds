@@ -42,61 +42,6 @@
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_exit_poll"
 		},
 		{
-			"name": "Delhi Elections 2020_2",
-			"bg_cc": "#FAFAFA",
-			"bg_cc_dark": "#1a1a1a",
-			"tn": "gridWidget-3",
-			"pitems": [{
-					"hl": "Datahub",
-					"id": "11111",
-					"imageid": "73479015",
-					"imageid_dark": "73479481",
-					"tn": "htmlview",
-					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/constituency-map"
-				},
-				{
-					"hl": "Exitpoll",
-					"id": "222222",
-					"imageid": "73479107",
-					"imageid_dark": "73479520",
-					"tn": "html",
-					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/exit-polls"
-				},
-				{
-					"hl": "Know your constituency",
-					"id": "33333",
-					"imageid": "73479146",
-					"imageid_dark": "73479722",
-					"tn": "mixedlist",
-					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73252049,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
-				},
-				{
-					"hl": "News",
-					"id": "44444",
-					"imageid": "73479215",
-					"imageid_dark": "73479772",
-					"tn": "mixedlist",
-					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133263,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
-				},
-				{
-					"hl": "Results",
-					"id": "55555",
-					"imageid": "73479348",
-					"imageid_dark": "73479811",
-					"tn": "htmlview",
-					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
-				},
-				{
-					"hl": "Videos",
-					"id": "66666",
-					"imageid": "73479380",
-					"imageid_dark": "73479848",
-					"tn": "videolist",
-					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
-				}
-			]
-		},
-		{
 			"id": "123456",
 			"tn": "starCnt",
 			"url": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/Star%20Candidates",
@@ -246,6 +191,61 @@
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/city/delhi/tis-hazari-clash-delhi-police-chief-asks-agitating-police-personnel-to-resume-work/articleshow/71919528.cms",
 			"kws": "Tis Hazari court Delhi,Tis Hazari court,tis hazari clash delhi,Tis Hazari clash,Tis Hazari,delhi tis hazari clash updates,delhi news"
+		},
+				{
+			"name": "Delhi Elections 2020_2",
+			"bg_cc": "#FAFAFA",
+			"bg_cc_dark": "#1a1a1a",
+			"tn": "gridWidget-3",
+			"pitems": [{
+					"hl": "Datahub",
+					"id": "11111",
+					"imageid": "73479015",
+					"imageid_dark": "73479481",
+					"tn": "htmlview",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/constituency-map"
+				},
+				{
+					"hl": "Exitpoll",
+					"id": "222222",
+					"imageid": "73479107",
+					"imageid_dark": "73479520",
+					"tn": "html",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/exit-polls"
+				},
+				{
+					"hl": "Know your constituency",
+					"id": "33333",
+					"imageid": "73479146",
+					"imageid_dark": "73479722",
+					"tn": "mixedlist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73252049,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
+				},
+				{
+					"hl": "News",
+					"id": "44444",
+					"imageid": "73479215",
+					"imageid_dark": "73479772",
+					"tn": "mixedlist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133263,tag-alrt,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
+				},
+				{
+					"hl": "Results",
+					"id": "55555",
+					"imageid": "73479348",
+					"imageid_dark": "73479811",
+					"tn": "htmlview",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
+				},
+				{
+					"hl": "Videos",
+					"id": "66666",
+					"imageid": "73479380",
+					"imageid_dark": "73479848",
+					"tn": "videolist",
+					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
+				}
+			]
 		},
 		{
 			"upd": "1572938040000",
