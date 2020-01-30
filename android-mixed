@@ -20,6 +20,39 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"upd": "1572946080000",
+			"lpt": "1572946085057",
+			"dl": "1572915180000",
+			"hl": "Sample story with PDF embed for Ayodhya Verdict",
+			"imageid": "71981117",
+			"id": "71981117",
+			"dm": "t",
+			"tn": "news",
+			"type": "featured",
+			"wu": "https://timesofindia.indiatimes.com/india/sc-verdict-on-ayodhya-full-text/articleshow/71981117.cms"
+		}, {
+			"upd": "1572946080000",
+			"lpt": "1572946085057",
+			"dl": "1572915180000",
+			"hl": "Sample story with PDF embed for Ayodhya Verdict",
+			"imageid": "71981117",
+			"id": "71981117",
+			"dm": "t",
+			"tn": "html",
+			"type": "featured",
+			"wu": "https://timesofindia.indiatimes.com/india/sc-verdict-on-ayodhya-full-text/articleshow/71981117.cms"
+		}, {
+			"upd": "1572946080000",
+			"lpt": "1572946085057",
+			"dl": "1572915180000",
+			"hl": "Sample story with PDF embed for Ayodhya Verdict",
+			"imageid": "71981117",
+			"id": "71981117",
+			"dm": "t",
+			"tn": "htmlview",
+			"type": "featured",
+			"wu": "https://timesofindia.indiatimes.com/india/sc-verdict-on-ayodhya-full-text/articleshow/71981117.cms"
+		}, {
 			"id": "111111",
 			"tn": "onestatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
@@ -59,7 +92,7 @@
 			"shareUrl": "http://toi.in/L3Pk_a/",
 			"su": "http://toi.in/L3Pk_a/"
 		},
-				{
+		{
 			"name": "Delhi Elections 2020",
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
@@ -192,7 +225,7 @@
 			"wu": "https://timesofindia.indiatimes.com/city/delhi/tis-hazari-clash-delhi-police-chief-asks-agitating-police-personnel-to-resume-work/articleshow/71919528.cms",
 			"kws": "Tis Hazari court Delhi,Tis Hazari court,tis hazari clash delhi,Tis Hazari clash,Tis Hazari,delhi tis hazari clash updates,delhi news"
 		},
-				{
+		{
 			"name": "Delhi Elections 2020_2",
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
