@@ -19,7 +19,17 @@
 		},
 		"securl": "http://m.timesofindia.com/"
 	},
-	"items": [{
+	"items": [
+	{
+			"dl": "1498182300000",
+			"hl": "Article with disabling comment CD true",
+			"id": "67668272",
+			"imageid": "62133095&pl=63104",
+			"su": "http://toi.in/jPdd1Z/",
+			"wu": "http://timesofindia.indiatimes.com/articleshow/67668272.cms",
+			"tn": "news",
+			"upd": "1498547280000"
+		},{
 			"cf": "U",
 			"cg": "Hindi",
 			"cr": "4",
@@ -34,7 +44,6 @@
 			"su": "http://toi.in/jPdd1Z/",
 			"tn": "movie reviews",
 			"upd": "1498547280000",
-			"type": "featured>",
 			"cd": "true"
 		}, {
 			"dl": "1498182300000",
