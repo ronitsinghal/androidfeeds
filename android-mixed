@@ -25,8 +25,8 @@
 			"hl": "Epaper link to check the webview experience",
 			"id": "74503017",
 			"imageid": "",
-			"su": "https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html",
-			"wu": "https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html",
+			"su": "https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html?a=c",
+			"wu": "https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html?a=c",
 			"tn": "html",
 			"upd": "1498547280000"
 		},
