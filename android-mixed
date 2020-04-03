@@ -31,6 +31,16 @@
 			"upd": "1572946080000",
 			"wu": ""
 		},
+	{
+			"hl": "Coronavirus",
+			"dl": "1572915180000",
+			"id": "74377293",
+			"imageid": "74387875",
+			"lpt": "1572946085057",
+			"type": "Banner",
+			"upd": "1572946080000",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/feedurllist4/feedtype-sjson,msid-,uid-Channels-01,category-livetv.cms?platform=android&andver=576&adreqfrm=sec"
+		},	
 		{
 			"dl": "1498182300000",
 			"hl": "Epaper link to check the webview experience",
