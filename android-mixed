@@ -19,8 +19,19 @@
 		},
 		"securl": "http://m.timesofindia.com/"
 	},
-	"items": [
-	{
+	"items": [{
+			"hl": "Coronavirus",
+			"dl": "1572915180000",
+			"id": "74377293",
+			"imageid": "74387875",
+			"lpt": "1572946085057",
+			"tn": "livetv",
+			"channel_id": "times-now",
+			"type": "Banner",
+			"upd": "1572946080000",
+			"wu": ""
+		},
+		{
 			"dl": "1498182300000",
 			"hl": "Epaper link to check the webview experience",
 			"id": "74503017",
@@ -29,8 +40,7 @@
 			"wu": "https://epaper.timesgroup.com/TOI/TimesOfIndia/index.html?a=c",
 			"tn": "html",
 			"upd": "1498547280000"
-		},
-	{
+		}, {
 			"dl": "1498182300000",
 			"hl": "Movie review for testing MYT comments on test setup",
 			"id": "74503018",
@@ -39,7 +49,7 @@
 			"wu": "http://timesofindia.indiatimes.com/articleshow/67668272.cms",
 			"tn": "movie reviews",
 			"upd": "1498547280000"
-		},{
+		}, {
 			"dl": "1498182300000",
 			"hl": "Article for testing MYT comments on test setup",
 			"id": "8770710",
@@ -188,30 +198,25 @@
 			"tn": "onestatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
 			"key": "mp"
-		},
-		{
+		}, {
 			"id": "222222",
 			"tn": "allstatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
-		},
-		{
+		}, {
 			"id": "333333",
 			"tn": "onestatepieexitpoll",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_exit_poll",
 			"key": "mp"
-		},
-		{
+		}, {
 			"id": "444444",
 			"tn": "allstatepieexitpoll",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_exit_poll"
-		},
-		{
+		}, {
 			"id": "123456",
 			"tn": "starCnt",
 			"url": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/Star%20Candidates",
 			"dpt": "10"
-		},
-		{
+		}, {
 			"id": "73268155",
 			"hl": "Tatvik Test Video - How Pakistan wins against India in this game?",
 			"du": "03:11",
@@ -222,8 +227,7 @@
 			"upd": "1579068420000",
 			"shareUrl": "http://toi.in/L3Pk_a/",
 			"su": "http://toi.in/L3Pk_a/"
-		},
-		{
+		}, {
 			"name": "Delhi Elections 2020",
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
@@ -277,8 +281,7 @@
 					"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
 				}
 			]
-		},
-		{
+		}, {
 			"upd": "1579077360000",
 			"lpt": "1579077925732",
 			"dl": "1579074960000",
@@ -290,8 +293,7 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/world/rest-of-world/any-invasion-would-be-very-costly-for-beijing-taiwan-president-warns-china/articleshow/73268155.cms",
 			"kws": "Xi Jinping,Tsai Ing-wen,Taiwan,China and Taiwan,Chiang Kai-shek"
-		},
-		{
+		}, {
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -302,8 +304,7 @@
 			"tn": "html",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
-		},
-		{
+		}, {
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -312,8 +313,7 @@
 			"tn": "html",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		},
-		{
+		}, {
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -325,13 +325,11 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms",
 			"kws": "maharashtra polls 2019,Maharashtra elections,maharashtra assembly elections 2019,Maharashtra assembly elections,Maharashtra,Devendra Fadnavis"
-		},
-		{
+		}, {
 			"id": "333126",
 			"tn": "newslistdAd",
 			"pos": "1-51396865-2"
-		},
-		{
+		}, {
 			"upd": "1572940320000",
 			"lpt": "1572940340470",
 			"dl": "1572917820000",
@@ -342,8 +340,7 @@
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/business/india-business/infosys-lays-off-mid-senior-level-execs/articleshow/71915093.cms",
 			"kws": "Services,Infosys news,Infosys Layoff,Infosys jobs,Infosys job cuts,Infosys Employees,Infosys,exec"
-		},
-		{
+		}, {
 			"upd": "1572948300000",
 			"lpt": "1572948758295",
 			"dl": "1572939480000",
@@ -355,8 +352,7 @@
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/city/delhi/tis-hazari-clash-delhi-police-chief-asks-agitating-police-personnel-to-resume-work/articleshow/71919528.cms",
 			"kws": "Tis Hazari court Delhi,Tis Hazari court,tis hazari clash delhi,Tis Hazari clash,Tis Hazari,delhi tis hazari clash updates,delhi news"
-		},
-		{
+		}, {
 			"name": "Delhi Elections 2020_2",
 			"bg_cc": "#FAFAFA",
 			"bg_cc_dark": "#1a1a1a",
@@ -410,8 +406,7 @@
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=574&adreqfrm=sec"
 				}
 			]
-		},
-		{
+		}, {
 			"upd": "1572938040000",
 			"lpt": "1572951371709",
 			"dl": "1572935040000",
@@ -422,14 +417,12 @@
 			"tn": "news",
 			"wu": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohli-writes-an-emotional-note-to-15-year-old-chiku-on-his-31st-birthday/articleshow/71917991.cms",
 			"kws": "virat kohli records,Virat Kohli Chiku,virat kohli centuries,virat kohli birthday,virat kohli,King Kohli,happy birthday virat kohli"
-		},
-		{
+		}, {
 			"id": "123456715",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_Mrec",
 			"ctnbackfill": "331332"
-		},
-		{
+		}, {
 			"upd": "1572951420000",
 			"lpt": "1572951420213",
 			"dl": "1572921480000",
@@ -438,8 +431,7 @@
 			"id": "71915549",
 			"tn": "htmlview",
 			"wu": "https://timesofindia.indiatimes.com/india/breaking-news-live-november-5/liveblog/71915549.cms"
-		},
-		{
+		}, {
 			"upd": "1572946560000",
 			"lpt": "1572946586154",
 			"dl": "1572939480000",
@@ -455,8 +447,7 @@
 			"id": "333126",
 			"tn": "newslistdAd",
 			"pos": "1-51396865-2"
-		},
-		{
+		}, {
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -465,8 +456,7 @@
 			"tn": "html",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		},
-		{
+		}, {
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
 			"dl": "1572915180000",
@@ -475,8 +465,7 @@
 			"tn": "html",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/city/mumbai/shiv-sena-will-split-25-mlas-in-touch-with-maharashtra-chief-minister-devendra-fadnavis-independent/articleshow/71914921.cms"
-		},
-		{
+		}, {
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
@@ -491,38 +480,32 @@
 			"id": "333126",
 			"tn": "newslistdAd",
 			"pos": "1-51396865-2"
-		},
-		{
+		}, {
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "297494"
-		},
-		{
+		}, {
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "327684"
-		},
-		{
+		}, {
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "129086"
-		},
-		{
+		}, {
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "331328"
-		},
-		{
+		}, {
 			"id": "123456717",
 			"tn": "dfpmrec",
 			"adcode": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
 			"ctnbackfill": "327433"
-		},
-		{
+		}, {
 			"hl": "Test article for Caption background",
 			"id": "68151118",
 			"upd": "1533122062000",
@@ -532,8 +515,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "68151206"
-		},
-		{
+		}, {
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
@@ -543,8 +525,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67791483"
-		},
-		{
+		}, {
 			"hl": "Headline below the image and no synopsis",
 			"id": "67791506",
 			"upd": "1533122062000",
@@ -554,8 +535,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67791483"
-		},
-		{
+		}, {
 			"hl": "Vertical image with title at bottom centre",
 			"id": "67791614",
 			"upd": "1533122062000",
@@ -565,8 +545,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67847088"
-		},
-		{
+		}, {
 			"hl": "Black title at bottom centre",
 			"id": "67851838",
 			"upd": "1533122062000",
@@ -576,8 +555,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67992014"
-		},
-		{
+		}, {
 			"hl": "Default color title at top centre",
 			"id": "67775025",
 			"upd": "1533122062000",
@@ -587,8 +565,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775025"
-		},
-		{
+		}, {
 			"hl": "Black title at left and highlights medium",
 			"id": "67775270",
 			"upd": "1533122062000",
@@ -598,8 +575,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775317"
-		},
-		{
+		}, {
 			"hl": "White title at right",
 			"id": "67775339",
 			"upd": "1533122062000",
@@ -609,8 +585,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775349"
-		},
-		{
+		}, {
 			"hl": "Black title at top and Tiny highlights",
 			"id": "67775378",
 			"upd": "1533122062000",
@@ -620,8 +595,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775410"
-		},
-		{
+		}, {
 			"hl": "Black title below the image and Huge highlights",
 			"id": "67775421",
 			"upd": "1533122062000",
@@ -631,8 +605,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775453"
-		},
-		{
+		}, {
 			"au": "Avijit Ghosh and Anindya Chattopadhyay",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -646,8 +619,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/at-kumbh-luxury-tents-lure-the-pious-rich/articleshow/67336204.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -660,8 +632,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/prime-story-with-box-content-use-cases/articleshow/69938891.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -674,8 +645,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/prime-story-with-box-content-use-cases/articleshow/69939485.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -688,8 +658,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/in-eastern-up-priyanka-sparks-talk-of-hope-if-not-miracle-for-cong/articleshow/67830740.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -702,8 +671,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/in-eastern-up-priyanka-sparks-talk-of-hope-if-not-miracle-for-cong/articleshow/67830740.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -716,8 +684,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/indias-long-pending-litigations-hide-personal-tragedies-spanning-decades/articleshow/67585032.cms"
-		},
-		{
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -730,8 +697,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/indias-long-pending-litigations-hide-personal-tragedies-spanning-decades/articleshow/67585032.cms"
-		},
-		{
+		}, {
 			"au": "Chittaranjan Tembhekar, Mateen Hafeez and Mohua Das",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -745,8 +711,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/some-shut-shop-others-became-orchestra-bars/articleshow/67609045.cms"
-		},
-		{
+		}, {
 			"au": "Chittaranjan Tembhekar, Mateen Hafeez and Mohua Das",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -760,8 +725,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/some-shut-shop-others-became-orchestra-bars/articleshow/67609045.cms"
-		},
-		{
+		}, {
 			"au": "Narendra Nathan",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -775,8 +739,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/how-much-you-will-need-for-retirement/articleshow/69514730.cms"
-		},
-		{
+		}, {
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -790,8 +753,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		},
-		{
+		}, {
 			"ag": "TOI Tech",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -804,8 +766,7 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/primeshow/65118459.cms"
-		},
-		{
+		}, {
 			"au": "Anuj Bhatia",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -818,8 +779,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://m.timesofindia.com/city/meerut/articleshow/67190973.cms"
-		},
-		{
+		}, {
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
 			"secid": "2048925",
@@ -900,8 +860,7 @@
 					"kws": "rat hole mining,meghalaya,Jaintia Hills,illegal mining"
 				}
 			]
-		},
-		{
+		}, {
 			"upd": "1511681700000",
 			"lpt": "1511681700000",
 			"dl": "1511680800000",
@@ -924,8 +883,7 @@
 				}
 			],
 			"wu": "https://timesofindia.indiatimes.com/rahul-gandhi-raises-poll-pitch-in-gujarat/Rahul-Gandhi/photostory/66118582.cms"
-		},
-		{
+		}, {
 			"upd": "1540812600000",
 			"lpt": "1540812652965",
 			"dl": "1540809000000",
@@ -936,8 +894,7 @@
 			"cs": "prime",
 			"tn": "photostory",
 			"wu": "https://timesofindia.indiatimes.com/slidesowdev/these-girls-are-beding-it-like-beckham/primephotostory/66635035.cms"
-		},
-		{
+		}, {
 			"hl": "VIDEOS",
 			"tn": "rotaryslider",
 			"cs": "prime",
@@ -991,8 +948,7 @@
 					"lpt": "1532434047691"
 				}
 			]
-		},
-		{
+		}, {
 			"au": "Sumedha Bharpilania",
 			"kws": "prime5,prime4prime4,prime3prime3,prime2prime2,primeprime",
 			"upd": "1529406540000",
@@ -1006,8 +962,7 @@
 			"cs": "prime",
 			"su": "http://toi.in/4Z2YFa26/",
 			"wu": "https://timesofindia.indiatimes.com/test-video-for-prime/videoshow/64648950.cms"
-		},
-		{
+		}, {
 			"au": "Rohit Arora",
 			"upd": "1529482140000",
 			"lpt": "1529911279482",
@@ -1021,8 +976,7 @@
 			"cs": "prime",
 			"su": "http://toi.in/ojtPta28/",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime-sunny/articleshow/64648795.cms"
-		},
-		{
+		}, {
 			"au": "Rohit Arora",
 			"upd": "1529406000000",
 			"lpt": "1529916325217",
@@ -1036,8 +990,7 @@
 			"hasvideo": "yes",
 			"su": "http://toi.in/n3jGfZ/",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime/articleshow/64648587.cms"
-		},
-		{
+		}, {
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,feedtype-sjson,msid-58606824.cms?platform=iphone&ipver=495",
 			"hl": "Most Commented",
 			"tn": "itmslider",
@@ -1154,8 +1107,7 @@
 					"cnt": "21312"
 				}
 			]
-		},
-		{
+		}, {
 			"hl": "MOST READ",
 			"tn": "itmslider",
 			"cs": "prime",
@@ -1232,8 +1184,7 @@
 					"cnt": "120"
 				}
 			]
-		},
-		{
+		}, {
 			"au": "Adi B Godrej",
 			"upd": "1535968020000",
 			"lpt": "1535968061718",
@@ -1245,8 +1196,7 @@
 			"cs": "prime",
 			"dm": "t",
 			"wu": "https://timesofindia.indiatimes.com/video/delhi-s-iconic-monuments/videoshow/65635692.cms"
-		},
-		{
+		}, {
 			"upd": "1535111940000",
 			"lpt": "1535112005040",
 			"dl": "1534494120000",
@@ -1257,8 +1207,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/65437579.cms"
-		},
-		{
+		}, {
 			"hl": "MOST SHARED",
 			"tn": "itmslider",
 			"cs": "prime",
@@ -1391,8 +1340,7 @@
 					"cnt": "1120"
 				}
 			]
-		},
-		{
+		}, {
 			"au": "Chethan Kumar",
 			"upd": "1535104020000",
 			"lpt": "1535974722376",
@@ -1404,8 +1352,7 @@
 			"tn": "news",
 			"hasvideo": "yes",
 			"wu": "https://timesofindia.indiatimes.com/india/space-dreams-of-india-china-gain-gravity/articleshow/65501130.cms"
-		},
-		{
+		}, {
 			"hl": "EDITOR's PICK",
 			"tn": "linearslider",
 			"cs": "prime",
@@ -1536,8 +1483,7 @@
 					"kws": "Pushkar town,Pushkar Mela,pushkar diaries,pushkar came fair,PUSHKAR"
 				}
 			]
-		},
-		{
+		}, {
 			"au": "Himanshi Dhawan",
 			"upd": "1535105040000",
 			"lpt": "1535974143515",
@@ -1551,8 +1497,7 @@
 			"type": "featured",
 			"hasvideo": "yes",
 			"wu": "https://timesofindia.indiatimes.com/india/for-years-banswaras-women-have-been-eating-leftovers-but-this-old-tradition-is-changing-as-they-join-the-menfolk-for-meals-and-start-a-revolution-with-a-rotla/articleshow/65514331.cms"
-		},
-		{
+		}, {
 			"hl": "ARCHIVES",
 			"tn": "linearslider",
 			"cs": "prime",
