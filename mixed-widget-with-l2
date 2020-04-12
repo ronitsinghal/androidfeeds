@@ -1,0 +1,195 @@
+{
+	"hl": "Movies",
+	"id": "1081479906",
+	"tn": "mixedwidget",
+	"mixedWidgetData": {
+		"defaulturl": "http://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=569",
+		"uid": "Movies-01",
+		"navType": "tabs",
+		"subSections": [{
+				"hl": "Featured",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-1081479906,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-1081479906,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Featured-01"
+			},
+			{
+				"hl": "Hindi",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-536583627,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135527,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Hindi-01"
+			},
+			{
+				"hl": "English",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-2040742717,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135489,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "English-01"
+			},
+			{
+				"hl": "Tamil",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245786,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135454,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Tamil-01"
+			},
+			{
+				"hl": "Telugu",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245833,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135440,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Telugu-01"
+			},
+			{
+				"hl": "Malayalam",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12934575,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135428,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Malyalam-01"
+			},
+			{
+				"hl": "Kannada",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245853,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135414,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Kanada-01"
+			},
+			{
+				"hl": "Bengali",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245863,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135398,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Bengali-01"
+			},
+			{
+				"hl": "Punjabi",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-13592828,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135289,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Punjabi-01"
+			},
+			{
+				"hl": "Marathi",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-13924383,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27134572,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Marathi-01"
+			},
+			{
+				"hl": "Bhojpuri",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-14638602,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27134497,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Bhojpuri-01"
+			},
+			{
+				"hl": "Gujarati",
+				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-31524509,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
+				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-29982848,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
+				"uid": "Gujarati-01"
+			}
+		],
+		"defaultItems": [{
+				"ag": "TIMESOFINDIA.COM",
+				"upd": "1586692200000",
+				"lpt": "1586692234733",
+				"dl": "1586689080000",
+				"hl": "Happy Easter: Stars pour in wishes for fans",
+				"hasvideo": "yes",
+				"imageid": "75108013&pl=358741",
+				"id": "75107393",
+				"dm": "t",
+				"tn": "news",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/happy-easter-amitabh-bachchan-shraddha-kapoor-malaika-arora-and-other-bollywood-celebs-pour-in-wishes-for-their-fans/articleshow/75107393.cms",
+				"kws": "Malaika Arora,Karisma Kapoor,easter,Dia Mirza,Bollywood,amitabh bachchan"
+			},
+			{
+				"ag": "TIMESOFINDIA.COM",
+				"upd": "1586687400000",
+				"lpt": "1586687416274",
+				"dl": "1586687400000",
+				"hl": "Shaza Morani pens a heartfelt note of thanks",
+				"imageid": "75107129&pl=205730",
+				"id": "75107121",
+				"dm": "t",
+				"tn": "news",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shaza-morani-pens-a-heartfelt-note-of-thanks-for-family-and-hospital-staff-describes-herself-covid-19-positive-but-also-faith-positive/articleshow/75107121.cms",
+				"kws": "Zoa morani,zoa,Shaza Morani,Karim Morani,isolation"
+			},
+			{
+				"ag": "TIMESOFINDIA.COM",
+				"upd": "1586688480000",
+				"lpt": "1586688491576",
+				"dl": "1586688480000",
+				"hl": "Sunny turns up the heat with her latest pics",
+				"imageid": "75107372&pl=1103684",
+				"id": "75107379",
+				"dm": "t",
+				"tn": "news",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sunny-leone-turns-up-the-heat-in-the-cyberspace-with-her-latest-alluring-pictures/articleshow/75107379.cms",
+				"kws": "Sunny Leone,smokey,Nawazuddin Siddiqui,manishadratnani,dabbooratnanistudio,Athiya Shetty"
+			},
+			{
+				"ag": "TIMESOFINDIA.COM",
+				"upd": "1586674860000",
+				"lpt": "1586674866617",
+				"dl": "1586674860000",
+				"hl": "SS Rajamouli on working with Alia in 'RRR'",
+				"imageid": "75105228&pl=391945",
+				"id": "75105170",
+				"dm": "t",
+				"tn": "news",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ss-rajamouli-opens-up-on-working-with-alia-bhatt-in-rrr/articleshow/75105170.cms",
+				"kws": "Tarak,SS Rajamouli,RRR,ranbir kapoor,Ramcharan Teja,NTR Jr,ntr,Bollywood,alia bhatt"
+			},
+			{
+				"ag": "TIMESOFINDIA.COM",
+				"upd": "1586679060000",
+				"lpt": "1586679103889",
+				"dl": "1586679060000",
+				"hl": "Mumbai Police refers SRK's film to advice people",
+				"imageid": "75105888&pl=277316",
+				"id": "75105888",
+				"dm": "t",
+				"tn": "news",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mumbai-police-uses-shah-rukh-khans-film-main-hoon-na-reference-to-advice-people-to-wear-mask/articleshow/75105888.cms",
+				"kws": "tweeter,Shah Rukh Khan,Mumbai Police,mask,Main Hoon Na,Bollywood"
+			}
+		]
+	}
+}
