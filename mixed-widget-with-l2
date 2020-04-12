@@ -9,74 +9,47 @@
 		"subSections": [{
 				"hl": "Featured",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-1081479906,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-1081479906,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Featured-01"
 			},
 			{
 				"hl": "Hindi",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-536583627,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135527,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Hindi-01"
 			},
 			{
 				"hl": "English",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-2040742717,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135489,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "English-01"
 			},
 			{
 				"hl": "Tamil",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245786,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135454,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Tamil-01"
 			},
 			{
 				"hl": "Telugu",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245833,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135440,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Telugu-01"
 			},
 			{
 				"hl": "Malayalam",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12934575,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135428,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Malyalam-01"
 			},
 			{
 				"hl": "Kannada",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245853,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135414,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Kanada-01"
 			},
 			{
 				"hl": "Bengali",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-12245863,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135398,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Bengali-01"
 			},
 			{
 				"hl": "Punjabi",
 				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-13592828,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27135289,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
 				"uid": "Punjabi-01"
-			},
-			{
-				"hl": "Marathi",
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-13924383,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27134572,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
-				"uid": "Marathi-01"
-			},
-			{
-				"hl": "Bhojpuri",
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-14638602,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-27134497,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
-				"uid": "Bhojpuri-01"
-			},
-			{
-				"hl": "Gujarati",
-				"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-31524509,tag-alrtdf,uid-EntMovieNews-01.cms?platform=iphone&ipver=569&adreqfrm=sec",
-				"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-29982848,stryno-5,tag-alrt,uid-EntMovieNews-01.cms?platform=iphone&ipver=569",
-				"uid": "Gujarati-01"
 			}
 		],
 		"defaultItems": [{
