@@ -1,0 +1,109 @@
+{
+	"hl": "Others",
+	"id": "62441162",
+	"tn": "mixedwidget",
+	"mixedWidgetData": {
+		"defaulturl": "http://timesofindia.indiatimes.com/feeds/newslistingfeedetimes/feedtype-sjson,msid-62441162,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=569",
+		"uid": "Others-01",
+		"defaultItems": [{
+				"upd": "1579160580000",
+				"lpt": "1579160584664",
+				"dl": "1579160580000",
+				"hl": "Suman Rao dazzles in pink",
+				"imageid": "73293884&pl=329991",
+				"tn": "photo",
+				"dm": "b",
+				"id": "73228577",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://beautypageants.indiatimes.com/miss-world/suman-rao-dazzles-in-pink/eventshow/73228577.cms"
+			},
+			{
+				"upd": "1579160400000",
+				"lpt": "1579160425026",
+				"dl": "1579160400000",
+				"hl": "Naveli Deshmukh's visit as the ambassador of NSS",
+				"imageid": "73293762&pl=122999",
+				"tn": "photo",
+				"dm": "b",
+				"id": "73251091",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://beautypageants.indiatimes.com/miss-diva/naveli-deshmukhs-visit-as-the-ambassador-of-nss/eventshow/73251091.cms"
+			},
+			{
+				"upd": "1574760000000",
+				"lpt": "1574760004411",
+				"dl": "1574760000000",
+				"hl": "Shefali Sood’s stunning official style file shoot",
+				"imageid": "72239657&pl=4622136",
+				"tn": "photo",
+				"dm": "b",
+				"id": "72198064",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://beautypageants.indiatimes.com/miss-diva/shefali-soods-stunning-official-style-file-shoot/eventshow/72198064.cms"
+			},
+			{
+				"upd": "1574759760000",
+				"lpt": "1574759861087",
+				"dl": "1574759760000",
+				"hl": "I want to bring home the Miss World crown",
+				"tn": "photo",
+				"dm": "b",
+				"id": "72139996",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://beautypageants.indiatimes.com/miss-india/i-want-to-bring-home-the-miss-world-crown/eventshow/72139996.cms"
+			},
+			{
+				"upd": "1572866460000",
+				"lpt": "1572866497313",
+				"dl": "1572866460000",
+				"hl": "Denied toilet access: Beauty queen slams airline",
+				"imageid": "71893315&pl=45581",
+				"tn": "photo",
+				"dm": "b",
+				"id": "71850932",
+				"pubInfo": {
+					"pn": "The Times Of India",
+					"pnEng": "The Times Of India",
+					"channel": "toi",
+					"pnu": "https://nprssfeeds.indiatimes.com/photo/47643815.cms",
+					"pid": "100",
+					"lid": "1",
+					"lang": "english"
+				},
+				"wu": "https://beautypageants.indiatimes.com/others/beauty-queen-shames-airline-for-refusing-her-toilet-access/eventshow/71850932.cms"
+			}
+		]
+	}
+}
