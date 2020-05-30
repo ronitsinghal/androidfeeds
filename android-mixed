@@ -28,7 +28,17 @@
 			"type": "smallBanner",
 			"upd": "1572946080000",
 			"wu": "https://m.timesofindia.com/coronavirus"
-		}, {
+		},
+		{
+			"hl": "Coronavirus",
+			"dl": "1572915180000",
+			"lpt": "1572946085057",
+			"imageid": "76105447",
+			"tn": "html",
+			"type": "smallBanner",
+			"upd": "1572946080000",
+			"wu": "https://m.timesofindia.com/coronavirus"
+		},{
 			"hl": "Budget 2019 - Live Stream",
 			"id": "67056361",
 			"tn": "ls",
