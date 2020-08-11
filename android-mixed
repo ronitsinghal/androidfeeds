@@ -18,7 +18,16 @@
 		},
 		"securl": "http://m.timesofindia.com/"
 	},
-	"items": [{
+	"items": [
+			"hl": "Auto now test story",
+			"dl": "1572915180000",
+			"lpt": "1572946085057",
+			"id": "77479065",
+			"imageid": "77479065",
+			"tn": "html",
+			"upd": "1572946080000",
+			"wu": "https://stage-autonow2.gadgetsnow.com/primeauth"
+		},{
 			"hl": "Coronavirus",
 			"dl": "1572915180000",
 			"lpt": "1572946085057",
